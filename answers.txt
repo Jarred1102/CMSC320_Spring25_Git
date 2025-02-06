@@ -9,3 +9,9 @@ Data Science could be applied to Machine Learning because it allows us to
 prepare, clean, analyze, and interpret large datasets, which are then used to train 
 and optimize machine learning models, allowing them to make accurate predictions and 
 extract valuable insights from data that would be difficult to identify manually.
+
+Q4: What are you looking forward to this semester?
+
+Answer:
+
+I am looking forward to learning about data science and applying it to Machine Learning, and getting an A.
