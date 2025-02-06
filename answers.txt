@@ -1,6 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: Git is a very easy and convenient way for people to collaborate with each other on coding projects.
+
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: 
@@ -9,6 +10,15 @@ Data Science could be applied to Machine Learning because it allows us to
 prepare, clean, analyze, and interpret large datasets, which are then used to train 
 and optimize machine learning models, allowing them to make accurate predictions and 
 extract valuable insights from data that would be difficult to identify manually.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer:
+
+Git merge is safer than rebase and keeps the commit sequence intact by combining the histories 
+of the two branches into a single branch. Git rebase, on the other hand, rewrites history by 
+putting changes from one branch at the beginning of another, resulting in a more organized, linear project
+history.
 
 Q4: What are you looking forward to this semester?
 
